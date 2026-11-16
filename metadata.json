@@ -1,0 +1,8 @@
+{
+  "name": "GridPulse",
+  "description": "Accessible electricity market telemetry dashboard for tracking real-time SMP and REC pricing, hourly load dynamics, and renewable revenue projections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
